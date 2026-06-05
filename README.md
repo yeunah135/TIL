@@ -1,5 +1,6 @@
-# TIL
-"작은 배움을 매일 기록하는 곳 — one thing at a time 🌱"
+# 🌱 TIL — Today I Learned
+
+> 작은 배움을 매일 기록하는 곳 — one thing at a time
 
 매일 배운 것을 짧게 기록하며 성장의 흔적을 남깁니다.
 완벽하지 않아도 괜찮아요. 꾸준히 쌓이는 게 중요하니까요.
@@ -8,11 +9,12 @@
 
 ## 📁 카테고리
 
-- [JavaScript](./javascript/)
-- [알고리즘 & 코딩테스트](./algorithm/)
-- [HTML / CSS](./html-css/)
-- [Git & GitHub](./git/)
-- [기타](./etc/)
+| 폴더 | 내용 |
+|------|------|
+| [cs/](./cs) | 수업에서 배운 것 |
+| [ps/](./ps) | 문제풀이 (코테) |
+| [project/](./project) | 직접 만들면서 부딪힌 것 |
+| [reading/](./reading) | 문서·글 읽다가 정리한 것 |
 
 ---
 
